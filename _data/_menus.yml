@@ -15,9 +15,3 @@ main:
     items: 
   - page_id: _pages/contact.html
     items: 
-  - folder: false
-    url_localized: ''
-    page_id: _pages/sitemap.html
-    label_localized:
-      es: SP Sitemap
-    items: 
