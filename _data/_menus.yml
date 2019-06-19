@@ -20,6 +20,11 @@ main:
     page_id: _pages/sitemap.html
     label_localized:
       es: SP Sitemap
+    items: 
+  - folder: true
+    label_localized:
+      en: Group
+      es: Groupo
     items:
     - folder: false
       url_localized:
@@ -27,8 +32,3 @@ main:
       label_localized:
         en: Google
       items: 
-  - folder: true
-    label_localized:
-      en: Group
-      es: Groupo
-    items: 
