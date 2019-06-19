@@ -11,7 +11,7 @@ main:
     items: 
   - page_id: _pages/offers.html
     items: 
-  - page_id: _pages/contact.html
-    items: 
   - page_id: _pages/gallery.html
+    items: 
+  - page_id: _pages/contact.html
     items: 
