@@ -18,3 +18,8 @@ main:
     label_localized:
       en: Group
       es: Groupo
+  - folder: false
+    url_localized:
+      en: http://www.google.com
+    label_localized:
+      en: Google
