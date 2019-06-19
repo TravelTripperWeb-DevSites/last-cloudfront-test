@@ -4,22 +4,31 @@ main:
   name: Top Menu
   items:
   - page_id: index.html
+    items: 
   - page_id: _pages/about.html
+    items: 
   - page_id: _pages/rooms.html
+    items: 
   - page_id: _pages/offers.html
+    items: 
   - page_id: _pages/gallery.html
+    items: 
   - page_id: _pages/contact.html
+    items: 
   - folder: false
     url_localized: ''
     page_id: _pages/sitemap.html
     label_localized:
       es: SP Sitemap
+    items:
+    - folder: false
+      url_localized:
+        en: http://www.google.com
+      label_localized:
+        en: Google
+      items: 
   - folder: true
     label_localized:
       en: Group
       es: Groupo
-  - folder: false
-    url_localized:
-      en: http://www.google.com
-    label_localized:
-      en: Google
+    items: 
