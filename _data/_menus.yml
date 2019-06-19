@@ -21,14 +21,3 @@ main:
     label_localized:
       es: SP Sitemap
     items: 
-  - folder: true
-    label_localized:
-      en: Group
-      es: Groupo
-    items:
-    - folder: false
-      url_localized:
-        en: http://www.google.com
-      label_localized:
-        en: Google
-      items: 
