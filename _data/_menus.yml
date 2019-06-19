@@ -14,3 +14,7 @@ main:
     page_id: _pages/sitemap.html
     label_localized:
       es: SP Sitemap
+  - folder: true
+    label_localized:
+      en: Group
+      es: Groupo
