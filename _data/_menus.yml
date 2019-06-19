@@ -18,3 +18,8 @@ main:
   - folder: true
     label_localized:
       en: Group
+  - folder: false
+    url_localized:
+      en: "/"
+    label_localized:
+      en: Link
