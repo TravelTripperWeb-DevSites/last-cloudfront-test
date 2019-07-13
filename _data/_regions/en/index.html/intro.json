@@ -3,6 +3,9 @@
     "_template": "1_col"
   },
   {
-    "_template": "2_col"
+    "_template": "2_col",
+    "col1_html": {
+      "content": "<p>test</p>"
+    }
   }
 ]
