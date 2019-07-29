@@ -17,7 +17,7 @@
             <li data-filter="{{gallery.gallery}}" class="filter-item">
               <div class="lightbox-item gallery-item">
                 {% if photo.video %}
-                  <video src="{{photo.url}}" style="max-height: 100px; min-width: 100%;" class="objectfit"></video>
+                  <img src="{{photo.url}}" alt="{{photo.alt}}" data-large="{{photo.url}}" data-thumb="{{photo.url}}" class="objectfit" />
                 {% else %}
                   <img src="{{photo.url_small}}" alt="{{photo.alt}}" data-large="{{photo.url_large}}" data-thumb="{{photo.url_thumb}}" class="objectfit" />
                 {% endif %}
